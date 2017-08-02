@@ -1,2 +1,2 @@
 # hello_world
-Just a repository
+this is an empty
